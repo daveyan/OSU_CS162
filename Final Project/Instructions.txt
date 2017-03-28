@@ -1,0 +1,11 @@
+Instructions:
+
+The Struggle is a text base game that challenges the user to collect the required items before the time runs out.
+
+At different times in the game, you will be prompted with an action.
+
+[A]ction	:Action
+
+In this situation, enter the character 'A' or 'a' to use the action.
+
+Most of the movement will be done with the WASD keys, but note that there will be special actions bound to similar letters.

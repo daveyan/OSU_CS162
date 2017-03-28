@@ -1,0 +1,12 @@
+Papa Dominoes Hut: mail@papadominoeshut.com
+to yourEmail@email.com
+
+Dear valued customer, 
+
+	Your order has been successfully confirmed by our team. It should delivered by [8:30]. Please have your "Wallet" ready to pay the pizza delivery guy.
+
+Note that the driver will not be carrying any cash with them, so exact change would be appreciated.
+
+Thanks again for ordering from Papa Dominoes Hut.
+
+			- Papa D. Hut.

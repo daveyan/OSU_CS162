@@ -1,0 +1,14 @@
+This is a pretty crummy blueprint. I wonder who drew this thing
+
+[FIRST FLOOR]___________|_______[SECOND FLOOR]____
+			|			
+Front Door		|	Bedroom
+  ^			|	  ^
+  v			|	  v
+Living Room <> Stairs	|	Hallway <> Stairs
+  ^			|	  ^
+  v			|	  v
+Dining Room		|	Bathroom
+
+
+
